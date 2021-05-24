@@ -1,0 +1,5 @@
+United States of America|North America|English
+Mexico|North America|Spanish
+Belgium|Europe|Dutch
+Nigeria|Africa|English
+Australia|Australia|Australian English
